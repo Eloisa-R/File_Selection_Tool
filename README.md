@@ -6,4 +6,4 @@ a limit on the total number of values outsourced and also on the total number of
 since the freelance translators have limited capacity.
 
 The tool uses a csv file with the list of product attribute files and another one with the capacities per target language.
-It outputs a txt file with the fata of the files that should be outsourced. 
+It outputs a txt file with the data of the files that should be outsourced. 
